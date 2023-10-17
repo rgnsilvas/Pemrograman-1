@@ -1,0 +1,10 @@
+print('Regina Silva Maharatini')
+
+print('# # # #          #')
+print('#       #        #')
+print('#       #        #')
+print('#       #        #')
+print('# # # #          #')
+print('#      #         #')
+print('#       #        #')
+print('#        #       #')
