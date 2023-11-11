@@ -5,7 +5,7 @@ int main() {
 
     printf("Input\n");
     scanf("%d %d", &n1, &n2);
-    printf("\nOutput");
+    printf("\nOutput\n");
 
     if (n1 < n2) {
         printf("%d %d\n", n1, n2);

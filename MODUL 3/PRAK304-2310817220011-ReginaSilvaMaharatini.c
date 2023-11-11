@@ -1,20 +1,20 @@
 #include <stdio.h>
 
 int main(){
-    int bil;
+    int num;
     printf("Input\n");
-    scanf("%d", &bil);
-    printf("\nOutput\n");
-    
-    if(bil == 0){
+    scanf("%d", &num);
+    printf("\nOutput");
+
+    if(num == 0){
         printf("Nol");
-    } else if(bil >= 1 && bil <= 9){
+    } else if(num >= 1 && num <= 9){
         printf("Satuan");
-    } else if(bil >= 10 && bil <= 19){
+    } else if(num >= 10 && num <= 19){
         printf("Belasan");
-    } else if(bil >= 20 && bil <= 99){
+    } else if(num >= 20 && num <= 99){
         printf("Puluhan");
-    } else if(bil >= 100){
+    } else if(num >= 100){
         printf("Anda Menginput Melebihi Limit Bilangan");
     }
     return 0;

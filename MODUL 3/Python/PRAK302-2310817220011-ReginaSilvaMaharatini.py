@@ -1,6 +1,6 @@
-bil = int(input("Input"))
+bil = int(input("Input\n"))
 
-print("Output")
+print("\nOutput")
 
 if bil >= 80:
     print("A")

@@ -1,8 +1,10 @@
 #include <stdio.h>
 int main(){
 int bil;
-    printf("Masukkan Nilai :");
+    printf("Input\n");
     scanf("%d", &bil);
+    printf("\nOutput\n");
+    
     if (bil >=80 ){
         printf ("A");
     }if (bil <=79 && bil >=70 ){

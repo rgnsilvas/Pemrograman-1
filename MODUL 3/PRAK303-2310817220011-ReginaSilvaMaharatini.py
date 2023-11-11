@@ -1,5 +1,4 @@
 num = int(input("Input\n"))
-
 print("\nOutput")
 
 if num == 0:

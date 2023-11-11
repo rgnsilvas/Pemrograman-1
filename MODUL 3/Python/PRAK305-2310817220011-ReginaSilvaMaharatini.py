@@ -1,4 +1,5 @@
 num = int(input("Input\n"))
+
 print("\nOutput")
 
 hari = num // 86400

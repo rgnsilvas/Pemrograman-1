@@ -4,7 +4,7 @@ int main(){
     int num;
     printf("Input\n");
     scanf("%d", &num);
-    printf("\nOutput\n");
+    printf("\nOutput");
     
     if(num == 0){
         printf("nol");
